@@ -1,0 +1,19 @@
+{
+  "name": "nft-upload-nftstorage",
+  "version": "1.0.0",
+  "description": "upload content to NFT.storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scotopic/nft-upload-nftstorage.git"
+  },
+  "author": "scotopic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scotopic/nft-upload-nftstorage/issues"
+  },
+  "homepage": "https://github.com/scotopic/nft-upload-nftstorage#readme"
+}
