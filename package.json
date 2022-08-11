@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/scotopic/nft-upload-nftstorage/issues"
   },
-  "homepage": "https://github.com/scotopic/nft-upload-nftstorage#readme"
+  "homepage": "https://github.com/scotopic/nft-upload-nftstorage#readme",
+  "dependencies": {
+    "files-from-path": "^0.2.6",
+    "mime": "^3.0.0",
+    "nft.storage": "^7.0.0"
+  }
 }
